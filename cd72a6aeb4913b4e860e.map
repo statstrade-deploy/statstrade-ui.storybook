@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/tamagui.config.ts"],
+  "mappings": "AAAA,SAASA,qBAAqB;AAC9B,SAASC,kBAAkB;AAC3B,SAASC,cAAcC,eAAeC,gBAAgB;AAEtD,SAASC,kBAAkB;AAC3B,SAASC,UAAUC,mBAAmB;AACtC,SAASC,OAAOC,+BAA+B;AAC/C,SAASC,UAAUC,gBAAgB;AACnC,SAASC,aAAa;AACtB,SAASC,cAAc;AACvB,SAASC,YAAY;AACrB,SAASC,aAAa;AACtB,SAASC,cAAc;AAGvBZ,SAAS;EACPa,YAAY;AACd,CAAA;AAMA,IAAMP,SAEAC,UAGOO,SAASf,cAAc;EAClC,GAAGH;EACHU;EACAS,aAAa;EACbd;EACAe,6BAA6B;EAC7BC,sBAAsB;EACtBZ;EACAa,iBAAiB,SAACC,OAAAA;WAAW;MAC3BC,iBAAiBD,MAAME;MACvBb,OAAOW,MAAMG;IACf;;EACAC,qBAAqB;EACrB1B;EACA2B,OAAO;IACLC,SAAStB;IACTuB,MAAMxB;EACR;EACAyB,QAAQ7B,aAAa;IACnBU;IACAC;IACAG;IACAD;IACAD;EACF,CAAA;EACAN;EACAwB,UAAU;IACRC,oBAAoB;IACpBC,4BAA4B;IAC5BC,kBAAkB;EACpB;AACF,CAAA,GAEA,yBAAejB;",
+  "names": ["defaultConfig", "shorthands", "createTokens", "createTamagui", "setupDev", "animations", "bodyFont", "headingFont", "media", "mediaQueryDefaultActive", "themes", "themesIn", "color", "radius", "size", "space", "zIndex", "visualizer", "config", "defaultFont", "shouldAddPrefersColorThemes", "themeClassNameOnRoot", "selectionStyles", "theme", "backgroundColor", "color5", "color11", "onlyAllowShorthands", "fonts", "heading", "body", "tokens", "settings", "allowedStyleValues", "autocompleteSpecificTokens", "fastSchemeChange"]
+}

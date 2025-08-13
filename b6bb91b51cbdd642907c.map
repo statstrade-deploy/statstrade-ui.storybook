@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/validToken.ts"],
+  "mappings": "AAGO,MAAM,aAAa,CAAC,MAAe;",
+  "names": []
+}

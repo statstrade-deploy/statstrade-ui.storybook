@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[38170],{"../../packages/ui/dist/jsx/themes/colors-default.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"aadb9d5e4d5dac192210.map"}}]);

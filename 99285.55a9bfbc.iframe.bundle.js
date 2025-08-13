@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[99285],{"../../packages/ui/tsconfig.json":module=>{module.exports=JSON.parse('{"extends":"../../tsconfig.base","include":["src","../app"],"compilerOptions":{"noEmit":true,"composite":true,"jsx":"react-jsx"},"references":[]}')}}]);

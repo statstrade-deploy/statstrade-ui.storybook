@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/config/animations.native.ts"],
+  "mappings": "AAAA,SAASA,wBAAwB;AAE1B,IAAMC,aAAaD,iBAAiB;EACzC,SAAS;IACPE,MAAM;IACNC,UAAU;EACZ;EACA,SAAS;IACPD,MAAM;IACNC,UAAU;EACZ;EACAC,QAAQ;IACNF,MAAM;IACNG,SAAS;IACTC,MAAM;IACNC,WAAW;EACb;EACAC,MAAM;IACJN,MAAM;IACNG,SAAS;IACTE,WAAW;EACb;EACAE,OAAO;IACLP,MAAM;IACNG,SAAS;IACTC,MAAM;IACNC,WAAW;EACb;EACAG,QAAQ;IACNL,SAAS;IACTE,WAAW;IACXD,MAAM;EACR;EACAK,MAAM;IACJN,SAAS;IACTE,WAAW;EACb;EACAK,SAAS;IACPP,SAAS;IACTC,MAAM;IACNC,WAAW;EACb;AACF,CAAA;",
+  "names": ["createAnimations", "animations", "type", "duration", "bouncy", "damping", "mass", "stiffness", "lazy", "quick", "medium", "slow", "tooltip"]
+}

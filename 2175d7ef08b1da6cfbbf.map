@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/tamagui.config.ts"],
+  "mappings": ";;;;;;;;;;;;;;;AAAA;;;;;;gBAA8B,+BAC9B,oBAA2B,gCAC3B,iBAAsD,oBAEtD,oBAA2B,gCAC3B,eAAsC,2BACtC,eAA+C,2BAC/C,yBAAmC,qCACnC,sBAAsB,kCACtB,sBAAuB,kCACvB,oBAAqB,gCACrB,qBAAsB,iCACtB,uBAAuB;IAGvBA,yBAAS;EACPC,YAAY;AACd,CAAA;AAMA,IAAMC,SAEAC,uBAAAA,QAGOC,aAASC,8BAAc;EAClC,GAAGC;EACHJ;EACAK,aAAa;EACbC;EACAC,6BAA6B;EAC7BC,sBAAsB;EACtBC;EACAC,iBAAiB,SAACC,OAAAA;WAAW;MAC3BC,iBAAiBD,MAAME;MACvBC,OAAOH,MAAMI;IACf;;EACAC,qBAAqB;EACrBC;EACAC,OAAO;IACLC,SAASC;IACTC,MAAMC;EACR;EACAC,YAAQC,6BAAa;IACnBV;IACAW;IACAC;IACAC;IACAC;EACF,CAAA;EACAC;EACAC,UAAU;IACRC,oBAAoB;IACpBC,4BAA4B;IAC5BC,kBAAkB;EACpB;AACF,CAAA,GAEA,yBAAe/B;",
+  "names": ["setupDev", "visualizer", "themes", "themesIn", "config", "createTamagui", "defaultConfig", "defaultFont", "animations", "shouldAddPrefersColorThemes", "themeClassNameOnRoot", "mediaQueryDefaultActive", "selectionStyles", "theme", "backgroundColor", "color5", "color", "color11", "onlyAllowShorthands", "shorthands", "fonts", "heading", "headingFont", "body", "bodyFont", "tokens", "createTokens", "radius", "zIndex", "space", "size", "media", "settings", "allowedStyleValues", "autocompleteSpecificTokens", "fastSchemeChange"]
+}

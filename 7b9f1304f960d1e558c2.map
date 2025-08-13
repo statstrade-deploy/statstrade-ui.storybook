@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/primitives/index.ts"],
+  "mappings": ";;;;;;;;;;;;AAAA;;+BAAc,6BAAd;",
+  "names": []
+}

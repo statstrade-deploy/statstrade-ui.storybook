@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/global.ts"],
+  "mappings": ";;;;;;;;;;;;;;;AAAA;;;;;qBAAuB,6BAQvB,iBAAeA;",
+  "names": ["config"]
+}

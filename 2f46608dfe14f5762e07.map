@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/themes/colors-default.ts"],
+  "mappings": ";;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;oBAiBO,4BAEMA,mBAAmB,uBACnBC,kBAAkB,oBAElBC,aAAa,oBACbC,eAAe;EAC1BH;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACAE;EACAD;GAGWG,YAAY,QACZC,cAAc;EACzBJ;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACAG;EACAJ;;",
+  "names": ["lightTransparent", "darkTransparent", "lightColor", "lightPalette", "darkColor", "darkPalette"]
+}

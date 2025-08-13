@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../src/themes/colors-default.ts"],
+  "mappings": "AAAA,SACEA,MACAC,UACAC,MACAC,UACAC,OACAC,WACAC,QACAC,YACAC,MACAC,UACAC,QACAC,YACAC,KACAC,SACAC,QACAC,kBACK;AAEA,IAAMC,mBAAmB,uBACnBC,kBAAkB,oBAElBC,aAAa,oBACbC,eAAe;EAC1BH;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACAE;EACAD;GAGWG,YAAY,QACZC,cAAc;EACzBJ;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACAG;EACAJ;;",
+  "names": ["blue", "blueDark", "gray", "grayDark", "green", "greenDark", "orange", "orangeDark", "pink", "pinkDark", "purple", "purpleDark", "red", "redDark", "yellow", "yellowDark", "lightTransparent", "darkTransparent", "lightColor", "lightPalette", "darkColor", "darkPalette"]
+}
