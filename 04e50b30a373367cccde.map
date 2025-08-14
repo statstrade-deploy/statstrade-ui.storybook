@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/field/BooleanSwitchField.tsx"],
+  "mappings": ";AAAA,SAASA,cAAcC,uBAAuB;AAC9C,SAASC,aAAa;AACtB,SAASC,UAAUC,OAAOC,QAAqBC,aAAa;AAE5D,SAASC,kBAAkB;AAEpB,IAAMC,qBAAqB,SAACC,OAAAA;AACjC,MAAM,EACJC,OACAC,OACAC,WAAW,EAAEC,aAAY,EAAE,IACzBZ,gBAAAA,GACE,EAAEa,OAAOC,WAAU,IAAKf,aAAAA,GACxBgB,KAAKd,MAAAA,GACLe,WAAWJ;AAEjB,SACE,qBAACP,OAAAA;IAAMY,MAAMP,QAAQ,QAAQ;IAAMQ,gBAAc;cAC/C,sBAAChB,UAAAA;MAASiB,IAAG;;QACV,CAAC,CAACN,SACD,sBAACV,OAAAA;UAAMiB,OAAM;UAAOC,MAAMb,MAAMa,QAAQ;UAAMC,SAASP;;YACpDF;YAAM;YAAEC,cAAc;;;QAI3B,qBAACV,QAAAA;UACCY;UACAO,QAAM;UACNC,SAASf,MAAMgB;UACfC,iBAAiB,SAACF,SAAAA;mBAAYf,MAAMkB,SAASH,OAAAA;;UAC7CI,KAAKnB,MAAMmB;UACXb;UACC,GAAGP;oBAEJ,qBAACJ,OAAOyB,OAAK;YAACC,WAAU;;;QAG1B,qBAACxB,YAAAA;UAAWyB,SAASrB,SAAAA,OAAAA,SAAAA,MAAOsB;;;;;AAIpC;",
+  "names": ["useFieldInfo", "useTsController", "useId", "Fieldset", "Label", "Switch", "Theme", "FieldError", "BooleanSwitchField", "props", "field", "error", "formState", "isSubmitting", "label", "isOptional", "id", "disabled", "name", "forceClassName", "ai", "theme", "size", "htmlFor", "native", "checked", "value", "onCheckedChange", "onChange", "ref", "Thumb", "animation", "message", "errorMessage"]
+}

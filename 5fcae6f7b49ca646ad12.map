@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/field/BooleanCheckboxField.tsx"],
+  "mappings": ";AAAA,SAASA,aAAa;AACtB,SAASC,cAAcC,uBAAuB;AAC9C,SAASC,aAAa;AACtB,SAASC,UAAuCC,UAAUC,OAAOC,OAAOC,cAAc;AAEtF,SAASC,kBAAkB;AAEpB,IAAMC,uBAAuB,SAACC,OAAAA;AACnC,MAAM,EACJC,OACAC,OACAC,WAAW,EAAEC,aAAY,EAAE,IACzBb,gBAAAA,GACE,EAAEc,OAAOC,WAAU,IAAKhB,aAAAA,GACxBiB,KAAKf,MAAAA,GACLgB,WAAWJ;AAEjB,SACE,qBAACR,OAAAA;IAAMa,MAAMP,QAAQ,QAAQ;IAAMQ,gBAAc;cAC/C,sBAAChB,UAAAA;;QACC,sBAACG,QAAAA;UAAOc,KAAI;;YACT,CAAC,CAACN,SACD,sBAACV,OAAAA;cAAMiB,OAAM;cAAOC,MAAMb,MAAMa,QAAQ;cAAMC,SAASP;;gBACpDF;gBAAM;gBAAEC,cAAc;;;YAG3B,qBAACb,UAAAA;cACCe;cACAO,QAAM;cACNC,SAASf,MAAMgB;cACfC,iBAAiB,SAACF,SAAAA;uBAAYf,MAAMkB,SAASH,OAAAA;;cAC7CI,KAAKnB,MAAMmB;cACXb;cACC,GAAGP;wBAEJ,qBAACP,SAAS4B,WAAS;0BACjB,qBAAChC,OAAAA,CAAAA,CAAAA;;;;;QAIP,qBAACS,YAAAA;UAAWwB,SAASpB,SAAAA,OAAAA,SAAAA,MAAOqB;;;;;AAIpC;",
+  "names": ["Check", "useFieldInfo", "useTsController", "useId", "Checkbox", "Fieldset", "Label", "Theme", "XStack", "FieldError", "BooleanCheckboxField", "props", "field", "error", "formState", "isSubmitting", "label", "isOptional", "id", "disabled", "name", "forceClassName", "gap", "theme", "size", "htmlFor", "native", "checked", "value", "onCheckedChange", "onChange", "ref", "Indicator", "message", "errorMessage"]
+}
