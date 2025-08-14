@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[24118],{"../../packages/ui/dist/jsx/stories/components/Shapes.stories.native.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"2c24c3e4f26ec0282f6e.map"}}]);

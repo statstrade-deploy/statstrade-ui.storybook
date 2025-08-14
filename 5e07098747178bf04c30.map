@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/stories/components/Group.stories.tsx"],
+  "mappings": ";AACA,SAASA,QAAQC,OAAOC,OAAOC,QAAQC,cAAc;AACrD,OAAkB;AAElB,IAAA,wBAAe;EACbC,OAAO;EACPC,WAAWL;EACXM,YAAY;IACVC,QAAQ;IACRC,MAAM;MACJC,aAAa;QACXJ,WAAW;MACb;IACF;EACF;AACF,GAEaK,aAAsB,WAAA;SACjC,sBAACP,QAAAA;IAAOQ,OAAM;;MACZ,sBAACX,OAAAA;;UACC,qBAACD,QAAAA;sBAAO;;UACR,qBAACA,QAAAA;sBAAO;;UACR,qBAACA,QAAAA;sBAAO;;;;MAGV,sBAACC,OAAAA;QAAMY,MAAK;;UACV,qBAACX,OAAAA;YAAMY,aAAY;;UACnB,qBAACd,QAAAA;sBAAO;;;;;;GAKDe,WAAoB,WAAA;SAC/B,sBAACd,OAAAA;IAAMe,aAAY;;MACjB,qBAAChB,QAAAA;kBAAO;;MACR,qBAACA,QAAAA;kBAAO;;MACR,qBAACA,QAAAA;kBAAO;;;;GAICiB,SAAkB,WAAA;SAC7B,sBAACd,QAAAA;IAAOS,OAAM;;MACZ,sBAACX,OAAAA;;UACC,qBAACD,QAAAA;YAAOkB,OAAM;sBAAS;;UACvB,qBAAClB,QAAAA;sBAAO;;UACR,qBAACA,QAAAA;sBAAO;;;;MAGV,sBAACC,OAAAA;QAAMkB,UAAQ;;UACb,qBAACnB,QAAAA;sBAAO;;UACR,qBAACA,QAAAA;sBAAO;;;;;;;",
+  "names": ["Button", "Group", "Input", "XStack", "YStack", "title", "component", "parameters", "layout", "docs", "description", "Horizontal", "space", "size", "placeholder", "Vertical", "orientation", "Styled", "theme", "disabled"]
+}

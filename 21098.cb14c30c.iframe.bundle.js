@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[21098],{"../../packages/ui/dist/cjs/stories/base/TamaguiExports.stories.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"2e80da765e8a1ba3b441.map"}}]);
