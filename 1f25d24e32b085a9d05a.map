@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/layout/page/Page.tsx"],
-  "mappings": "AAAA,SAAS,cAA2B;AAG3B;AADF,MAAM,OAAO,CAAC,UACZ,oBAAC,UAAO,MAAM,GAAG,OAAM,QAAO,iBAAgB,eAAe,GAAG,OAAO;",
-  "names": []
-}

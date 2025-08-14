@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/layout/page/Page.tsx"],
-  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,qBAAoC,oBAG3B;AADF,MAAM,OAAO,CAAC,UACZ,4CAAC,yBAAO,MAAM,GAAG,OAAM,QAAO,iBAAgB,eAAe,GAAG,OAAO;",
-  "names": []
-}

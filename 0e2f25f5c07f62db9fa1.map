@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/layout/page/Page.tsx"],
-  "mappings": ";AAAA,SAASA,cAA2B;AAE7B,IAAMC,OAAO,SAACC,OAAAA;AACnB,SAAO,qBAACF,QAAAA;IAAOG,MAAM;IAAGC,OAAM;IAAOC,iBAAgB;IAAe,GAAGH;;AACzE;",
-  "names": ["YStack", "Page", "props", "flex", "width", "backgroundColor"]
-}
