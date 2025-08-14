@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[3955],{"../../packages/ui/dist/jsx/layout/page/Footer.stories.mjs.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"56410e7c9a6c58b303d8.map"}}]);

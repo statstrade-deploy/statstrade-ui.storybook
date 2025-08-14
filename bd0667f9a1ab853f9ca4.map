@@ -1,0 +1,1 @@
+{"version":3,"names":["YStack","jsx","Page","props","flex","width","backgroundColor"],"sources":["../../../../src/layout/page/Page.tsx"],"sourcesContent":[null],"mappings":"AAAA,SAASA,MAAA,QAA2B;AAG3B,SAAAC,GAAA;AADF,MAAMC,IAAA,GAAQC,KAAA,IACZ,eAAAF,GAAA,CAACD,MAAA;EAAOI,IAAA,EAAM;EAAGC,KAAA,EAAM;EAAOC,eAAA,EAAgB;EAAe,GAAGH;AAAA,CAAO","ignoreList":[]}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/elem/Badge.tsx"],
+  "mappings": ";AAAA,SAASA,QAAQC,QAAQC,YAAY;AAG9B,IAAMC,aAAaH,OAAOC,QAAQ;EACvCG,MAAM;EACNC,iBAAiB;EACjBC,cAAc;EACdC,mBAAmB;EACnBC,iBAAiB;EACjBC,UAAU;EACVC,WAAW;EACXC,gBAAgB;EAChBC,YAAY;EACZC,aAAa;EACbC,aAAa;EACbC,UAAU;IACRC,MAAM;MACJ,WAAW,SAACA,MAAAA,OAAAA;YAAM,EAAEC,OAAM,IAAE,OAEhBA,mBACEA;AAFZ,eAAO;UACLC,SAAQD,oBAAAA,OAAOD,KAAKA,IAAAA,OAAK,QAAjBC,sBAAAA,SAAAA,oBAAqBD;UAC7BP,WAAUQ,qBAAAA,OAAOD,KAAKA,IAAAA,OAAK,QAAjBC,uBAAAA,SAAAA,qBAAqBD;UAC/BG,SAAS;QACX;MACF;IACF;EACF;EACAC,iBAAiB;IACfJ,MAAM;EACR;AACF,CAAA;AAMO,SAASK,MAAM,OAAkC;MAAlC,EAAEC,UAAU,GAAGC,MAAAA,IAAf;AACpB,SACE,qBAACpB,YAAAA;IAAY,GAAGoB;cACd,qBAACrB,MAAAA;MACCsB,OAAM;MACNC,UAAU;MACVC,YAAW;MACXC,YAAY;MACZC,WAAU;;;;AAMlB;AAGAP,MAAM,aAAgB;AACtBA,MAAM,SAAY;",
+  "names": ["styled", "YStack", "Text", "BadgeFrame", "name", "backgroundColor", "borderRadius", "paddingHorizontal", "paddingVertical", "minWidth", "minHeight", "justifyContent", "alignItems", "borderWidth", "borderColor", "variants", "size", "tokens", "height", "padding", "defaultVariants", "Badge", "children", "props", "color", "fontSize", "fontWeight", "lineHeight", "textAlign"]
+}

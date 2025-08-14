@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/primitives/hooks/useForwardFocus.tsx"],
-  "mappings": "AACA,SAASA,WAAWC,gBAAgB;AAI7B,IAAMC,kBAAkB,SAACC,QAAAA;AAC9B,MAAM,CAACC,SAASC,UAAAA,IAAcJ,SAAS,EAAA;AACvCD,mBAAU,WAAA;AACR,IAAII,WAAWD,OAAOG,WACpBH,OAAOG,QAAQC,MAAK;EAExB,GAAG;IAACH;GAAQ,GAEL;IACLI,SAAS,WAAA;AACPH,iBAAW,EAAA;IACb;IACAI,QAAQ,WAAA;AACNJ,iBAAW,EAAA;IACb;IACAK,WAAW;EACb;AACF;",
-  "names": ["useEffect", "useState", "useForwardFocus", "target", "focused", "setFocused", "current", "focus", "onFocus", "onBlur", "focusable"]
-}
