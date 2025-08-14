@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[58877],{"../../packages/ui/dist/cjs/stories/base/SemanticColors.stories.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"9b620b55a1e57cfce10e.map"}}]);

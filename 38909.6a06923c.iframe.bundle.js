@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[38909],{"../../packages/ui/dist/jsx/stories/base/Animations2.stories.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"82110f0962ced45d4233.map"}}]);
