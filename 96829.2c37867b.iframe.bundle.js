@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[96829],{"../../packages/ui/dist/jsx/features/web-lite/pages/TradePage.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"06e5810d5f5a212a2851.map"}}]);
