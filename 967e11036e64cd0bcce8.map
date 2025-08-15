@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/layout/frame/Banner.stories.tsx"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;uDACA,iBAA8B,oBAE9B,gBAAuB,qBAEjBA,OAA4B;EAChCC,OAAO;EACPC,YAAY;IAAEC,QAAQ;EAAW;EACjCC,WAAWC;AACb,GAIaC,QAAe;EAC1BC,MAAM;IACJC,UACE,uCAAAC,MAAA,mBAAAC,UAAA;;QACE,uCAAAC,KAACC,mBAAAA;oBAAG;;QACJ,uCAAAD,KAACE,0BAAAA;UAAUC,MAAK;UAAKC,IAAG;oBAAK;;;;EAMnC;AACF,GAEaC,SAAgB;EAC3BT,MAAM;IACJC,UACE,uCAAAC,MAAA,mBAAAC,UAAA;;QACE,uCAAAC,KAACC,mBAAAA;oBAAG;;QACJ,uCAAAD,KAACE,0BAAAA;UAAUC,MAAK;UAAKC,IAAG;oBAAK;;;;EAMnC;AACF,GAEA,yBAAef;",
-  "names": ["meta", "title", "parameters", "layout", "component", "Banner", "Basic", "args", "children", "_jsxs", "_Fragment", "_jsx", "H4", "Paragraph", "size", "mt", "Basic2"]
-}
