@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[16099],{"../../packages/ui/dist/cjs/layout/frame/Sidebar.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"252244503fe889106b7b.map"}}]);
