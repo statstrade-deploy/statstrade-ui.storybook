@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/components/effect/Shake.stories.tsx"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;uDACA,iBAAuB,oBAEvB,eAAsB,oBAEhBA,OAA2B;EAC/BC,OAAO;EACPC,YAAY;IAAEC,QAAQ;EAAW;EACjCC,WAAWC;EACXC,QAAQ,SAACC,OAAAA;WACP,uCAAAC,KAACH,oBAAAA;MAAO,GAAGE;gBACT,uCAAAC,KAACC,uBAAAA;QAAOC,IAAG;QAAMC,GAAG;QAAIC,GAAG;;;;AAGjC,GAIaC,QAAe;EAC1BC,MAAM;IACJC,UAAU;IACVC,YAAY;IACZC,eAAe;EACjB;AACF,GAEA,wBAAejB;",
-  "names": ["meta", "title", "parameters", "layout", "component", "Shake", "render", "props", "_jsx", "Circle", "bg", "w", "h", "Basic", "args", "shakeKey", "shakeTimes", "shakeDistance"]
-}
