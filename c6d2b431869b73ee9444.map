@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/layout/mockups/LandingPage.stories.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;uDACA,qBAA4B,0BAE5B,8BAAe;EACbA,OAAO;EACPC,WAAWC;EACXC,YAAY;IACVC,QAAQ;IACRC,MAAM;MACJC,aAAa;QACXL,WAAW;MACb;IACF;EACF;EACAM,UAAU,CAEV;AACF,GAIaC,UAAiB;EAC5BC,QAAQ,WAAA;WACN,uCAAAC,KAACC,OAAAA;MAAIC,OAAO;QAAEC,WAAW;MAAQ;gBAC/B,uCAAAH,KAACR,gCAAAA,CAAAA,CAAAA;;;EAGLC,YAAY;;IAEVW,UAAU;MAAEC,uBAAuB;IAAK;EAC1C;AACF;",
+  "names": ["title", "component", "LandingPage", "parameters", "layout", "docs", "description", "argTypes", "Default", "render", "_jsx", "div", "style", "minHeight", "controls", "hideNoControlsWarning"]
+}
