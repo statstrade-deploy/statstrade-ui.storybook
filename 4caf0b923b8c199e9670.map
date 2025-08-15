@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/effect/Bounce.tsx"],
+  "mappings": ";AAAA,SAASA,wBAAwB;AACjC,SAASC,iBAAiB;AAEnB,IAAMC,SAAS,SAAA,OAmBnB;MAnBoB,EACrBC,WACAC,eAAe,IACfC,iBAAiB,KACjBC,SAAQ,IAkBT,OACO,EAAEC,gBAAe,IAAKP,iBAAAA;AAC5B,MAAI,CAACO,gBAAiB,OAAM,IAAIC,MAAM,4BAAA;AACtC,MAAM,EAAEC,mBAAmBC,wBAAwBC,MAAMC,aAAY,IAAKL,iBACpEM,iBAAiBJ,kBAAkB,CAAA;AAEzCR,YAAU,WAAA;AACR,QAAI,CAACE;AACHU,qBAAeC,SAAS,CAAA;SACnB;AAEL,UAAMC,YAAYR,gBAAgBS,OAAOH,gBAAgB;QACvDI,SAAS;QACTC,MAAM;QACNC,SAAS;QACTC,WAAW;QACXC,mBAAmB;QACnBC,2BAA2B;QAC3BC,oBAAoB;MACtB,CAAA;AAEAR,uBAAUS,MAAK,GAER,WAAA;AACLT,kBAAUU,KAAI;MAChB;IACF;EACF,GAAG;IAACZ;IAAgBV;GAAU;AAE9B,MAAMuB,QAAQhB,uBAAuBG,gBAAgB,SAACc,KAAAA;WAAiB;MACrEC,WAAW;QACT;UACEC,YAAY,CAACC,KAAKC,IAAID,KAAKE,IAAIL,MAAMG,KAAKG,KAAK,CAAA,IAAK7B,YAAAA;QACtD;;IAEJ;;AAEA,SAAO,qBAACQ,cAAAA;IAAac;;;AACvB;",
+  "names": ["useConfiguration", "useEffect", "Bounce", "bounceKey", "bounceHeight", "bounceDuration", "children", "animationDriver", "Error", "useAnimatedNumber", "useAnimatedNumberStyle", "View", "AnimatedView", "animatedNumber", "setValue", "animation", "spring", "toValue", "mass", "damping", "stiffness", "overshootClamping", "restDisplacementThreshold", "restSpeedThreshold", "start", "stop", "style", "val", "transform", "translateY", "Math", "abs", "sin", "PI"]
+}
