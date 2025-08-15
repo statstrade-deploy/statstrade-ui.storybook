@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/layout/frame/Banner.stories.tsx"],
+  "mappings": ";AACA,SAASA,IAAIC,iBAAiB;AAE9B,SAASC,cAAc;AAEvB,IAAMC,OAA4B;EAChCC,OAAO;EACPC,YAAY;IAAEC,QAAQ;EAAW;EACjCC,WAAWL;AACb,GAIaM,QAAe;EAC1BC,MAAM;IACJC,UACE,sBAAA,WAAA;;QACE,qBAACV,IAAAA;oBAAG;;QACJ,qBAACC,WAAAA;UAAUU,MAAK;UAAKC,IAAG;oBAAK;;;;EAMnC;AACF,GAEaC,SAAgB;EAC3BJ,MAAM;IACJC,UACE,sBAAA,WAAA;;QACE,qBAACV,IAAAA;oBAAG;;QACJ,qBAACC,WAAAA;UAAUU,MAAK;UAAKC,IAAG;oBAAK;;;;EAMnC;AACF,GAEA,yBAAeT;",
+  "names": ["H4", "Paragraph", "Banner", "meta", "title", "parameters", "layout", "component", "Basic", "args", "children", "size", "mt", "Basic2"]
+}
