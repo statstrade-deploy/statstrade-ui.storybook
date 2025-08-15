@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/components/menu/Settings.stories.tsx"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;uDACA,sBAAyD,kCAEzD,kBAAyB,uBAEnBA,OAA8B;EAClCC,OAAO;EACPC,WAAWC;EACXC,YAAY;IAAEC,QAAQ;EAAW;AACnC,GAIaC,QAAe;EAC1BC,QAAQ,SAACC,OAAAA;WACP,uCAAAC,KAACN,0BAAAA;MAAU,GAAGK;MAAOE,GAAG;gBACtB,uCAAAC,MAACR,yBAASS,OAAK;;UACb,uCAAAD,MAACR,yBAASU,OAAK;;cACb,uCAAAJ,KAACN,yBAASW,MAAI;gBAACC,MAAMC;gBAAKC,aAAY;0BAAQ;;cAG9C,uCAAAR,KAACN,yBAASW,MAAI;gBAACC,MAAMG;gBAAOD,aAAY;0BAAS;;cAGjD,uCAAAR,KAACN,yBAASW,MAAI;gBAACC,MAAMI;gBAAWF,aAAY;0BAAO;;;;UAKrD,uCAAAN,MAACR,yBAASU,OAAK;;cACb,uCAAAJ,KAACN,yBAASW,MAAI;gBAACC,MAAMK;gBAAcH,aAAY;0BAAO;;cAGtD,uCAAAR,KAACN,yBAASW,MAAI;gBAACC,MAAMM;0BAAK;;;;;;;;AAKpC,GAEA,2BAAerB;",
-  "names": ["meta", "title", "component", "Settings", "parameters", "layout", "Basic", "render", "props", "_jsx", "w", "_jsxs", "Items", "Group", "Item", "icon", "Box", "accentTheme", "Users", "Milestone", "ShoppingCart", "Cog"]
-}
