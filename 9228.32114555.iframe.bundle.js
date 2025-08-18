@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[9228],{"../../packages/ui/dist/jsx/components/base/effect/Bounce.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"1870452c9f3edd502726.map"}}]);

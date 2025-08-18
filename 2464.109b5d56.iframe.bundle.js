@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[2464],{"../../packages/ui/dist/jsx/components/base/Badge.mjs.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"528fb5b95ce554609e04.map"}}]);

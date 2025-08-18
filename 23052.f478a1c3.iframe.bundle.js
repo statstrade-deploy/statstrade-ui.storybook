@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[23052],{"../../packages/ui/dist/jsx/experimental/avatar/BlockyAvatar.stories.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"928cbd149dc66a5f4ff7.map"}}]);

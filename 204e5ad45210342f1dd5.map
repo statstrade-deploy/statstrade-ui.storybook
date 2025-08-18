@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/components/sections/menu/SettingItem.tsx"],
+  "mappings": ";AACA,SACEA,aAEAC,QACAC,QACAC,QAEAC,cACK;AASA,IAAMC,cAAc,SAAA,OAAA;MAAC,EAC1BC,MAAMC,MACNC,UACAC,YACAC,UACAC,aACA,GAAGC,MAAAA,IACc;AACjB,SACE,qBAACV,OAAOW,MAAI;IAAE,GAAGD;cACf,sBAACE,kBAAAA;MAAiBJ,UAAU,CAAC,CAACA;MAAW,GAAGE;;QAC1C,qBAACT,QAAAA;UAAOY,OAAOJ;UAAaK,IAAG;UAAcC,GAAE;UAAOC,IAAG;oBACvD,qBAACX,MAAAA;YAAKY,GAAG;YAAKC,MAAM;;;QAGtB,qBAACpB,aAAAA;UAAYoB,MAAK;UAAKC,GAAG;;;QAIzB,CAAC,CAACZ,cACD,qBAACR,QAAAA;UAAOiB,IAAG;UAAMF,IAAG;UAAmBM,IAAG;UAAKC,IAAG;oBAChD,qBAACvB,aAAAA;YAAYoB,MAAK;YAAKI,IAAG;sBACvBf;;;;;;AAOf,GAEMK,mBAAmBV,OAAOH,QAAQ;EACtCwB,IAAI;EACJC,IAAI;EACJJ,IAAI;EACJC,IAAI;EACJI,KAAK;EACLC,KAAK;EACLV,IAAI;EAEJW,UAAU;IACRnB,UAAU;MACRoB,MAAM;QACJd,IAAI;QAEJe,YAAY;UACVf,IAAI;QACN;QACAgB,YAAY;UACVhB,IAAI;QACN;MACF;IACF;EACF;AACF,CAAA;",
+  "names": ["SizableText", "XStack", "YGroup", "YStack", "styled", "SettingItem", "icon", "Icon", "children", "rightLabel", "isActive", "accentTheme", "props", "Item", "SettingItemFrame", "theme", "bg", "p", "br", "o", "size", "f", "px", "py", "tt", "ai", "jc", "cur", "gap", "variants", "true", "hoverStyle", "pressStyle"]
+}

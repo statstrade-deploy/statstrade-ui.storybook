@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[57399],{"../../packages/ui/dist/jsx/experimental/features/onboarding/SplashScreen.stories.mjs.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"e0ab6d0c971a24065d4e.map"}}]);

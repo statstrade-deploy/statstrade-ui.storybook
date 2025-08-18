@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../src/components/onboarding/StatsDashboard.stories.tsx"],
-  "mappings": ";;;;;;;;;;;;;;;AACA;;;;;;;;4BAA+B,6BAEzBA,OAAO;EACXC,OAAO;EACPC,WAAWC;EACXC,YAAY;IACVC,QAAQ;EACV;EACAC,MAAM;IAAC;;EACPC,UAAU;IACRC,cAAc;MAAEC,SAAS;IAAS;IAClCC,OAAO;MAAED,SAAS;MAAUE,KAAK;MAAGC,KAAK;IAAI;IAC7CC,IAAI;MAAEJ,SAAS;IAAS;IACxBK,eAAe;MAAEL,SAAS;IAAS;IACnCM,MAAM;MAAEN,SAAS;IAAO;EAC1B;AACF,GAEA,iCAAeT,MAGFgB,UAAU;EACrBC,MAAM;IACJT,cAAc;IACdE,OAAO;IACPG,IAAI;IACJC,eAAe;IACfC,MAAM;EACR;EACAX,YAAY;IACVc,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF,GAGaC,UAAU;EACrBJ,MAAM;IACJT,cAAc;IACdE,OAAO;IACPG,IAAI;IACJC,eAAe;IACfC,MAAM;EACR;EACAX,YAAY;IACVc,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF,GAGaE,gBAAgB;EAC3BL,MAAM;IACJT,cAAc;IACdE,OAAO;IACPG,IAAI;IACJC,eAAe;IACfC,MAAM;EACR;EACAX,YAAY;IACVc,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF;",
-  "names": ["meta", "title", "component", "StatsDashboard", "parameters", "layout", "tags", "argTypes", "tokenBalance", "control", "level", "min", "max", "xp", "xpToNextLevel", "rank", "Default", "args", "docs", "description", "story", "NewUser", "HighLevelUser"]
-}

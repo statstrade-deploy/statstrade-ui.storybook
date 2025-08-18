@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[28574],{"../../packages/ui/dist/cjs/components/base/brand/StatstradeLogo.native.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"f30ad48119a422d2f20d.map"}}]);

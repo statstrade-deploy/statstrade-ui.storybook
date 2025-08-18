@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[84530],{"../../packages/ui/dist/jsx/components/sections/menu/SettingItem.stories.mjs.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"36c441ef6a15192b21d6.map"}}]);

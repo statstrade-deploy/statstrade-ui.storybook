@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[42940],{"../../packages/ui/dist/jsx/experimental/avatar/Egg3DAvatar.stories.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"7d915ce21cec6cde5550.map"}}]);

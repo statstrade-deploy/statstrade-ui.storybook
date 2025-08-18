@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[11857],{"../../packages/ui/dist/cjs/experimental/features/onboarding/AvatarRoom.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"fbd0b6825959e330d98a.map"}}]);

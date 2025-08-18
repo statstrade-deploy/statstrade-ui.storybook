@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/experimental/features/onboarding/InteractiveTutorial.stories.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;AACA;;;;;;;;;iCAAoC,kCACpC,uBAAuB,qCAEjBA,OAAyC;EAC7CC,OAAO;EACPC,WAAWC;EACXC,YAAY;IACVC,QAAQ;EACV;EACAC,MAAM;IACJC,gBAAYC,6BAAO,YAAA;IACnBC,YAAQD,6BAAO,QAAA;EACjB;AACF,GAEA,sCAAeR,MAGFU,UAAiB,CAAC,GAElBC,kBAAyB;EACpCL,MAAM;IACJM,OAAO;MACL;QACEC,IAAI;QACJZ,OAAO;QACPa,aAAa;MACf;MACA;QACED,IAAI;QACJZ,OAAO;QACPa,aAAa;MACf;MACA;QACED,IAAI;QACJZ,OAAO;QACPa,aAAa;MACf;MACA;QACED,IAAI;QACJZ,OAAO;QACPa,aAAa;MACf;;EAEJ;AACF,GAEaC,sBAA6B;EACxCT,MAAM;IACJC,YAAY,WAAA;AACVS,cAAQC,IAAI,oBAAA,OACZT,6BAAO,mBAAA,EAAA;IACT;IACAC,QAAQ,SAACS,WAAAA;AACPF,cAAQC,IAAI,mBAAmBC,SAAAA,EAAW,OAC1CV,6BAAO,iBAAA,EAAmBU,SAAAA;IAC5B;EACF;AACF,GAEaC,kBAAyB;EACpCb,MAAM;IACJc,OAAO;MAAEC,iBAAiB;IAAU;IACpCC,aAAa;MACXD,iBAAiB;MACjBE,OAAO;MACPC,SAAS;MACTC,cAAc;IAChB;EACF;AACF;",
+  "names": ["meta", "title", "component", "InteractiveTutorial", "parameters", "layout", "args", "onComplete", "action", "onSkip", "Default", "WithCustomSteps", "steps", "id", "description", "WithCustomCallbacks", "console", "log", "stepIndex", "WithCustomStyle", "style", "backgroundColor", "buttonStyle", "color", "padding", "borderRadius"]
+}

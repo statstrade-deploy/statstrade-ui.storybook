@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/components/sections/menu/Settings.tsx"],
+  "mappings": ";AAAA,SAASA,IAAIC,WAAWC,QAAQC,QAAQC,QAAQC,sBAAsBC,cAAc;AAEpF,SAASC,mBAAmB;AAE5B,IAAMC,gBAAgBF,OAAOF,QAAQ;EACnCK,KAAK;EACLC,KAAK;EACLC,GAAG;AACL,CAAA,GAEMC,gBAAgBN,OAAOF,QAAQ;EACnCM,KAAK;EACLG,IAAI;EAEJ,iBAAiB;IACfH,KAAK;IACLI,GAAG;IACHD,IAAI;EACN;AACF,CAAA,GAEME,gBAAgBT,OAAOH,QAAQ;EACnCa,IAAI;EAEJ,oBAAoB;IAClBC,WACE,sBAACf,QAAAA;;QACC,qBAACE,QAAAA;UAAOc,GAAG;UAAIF,IAAG;;QAClB,qBAACf,WAAAA;UAAUQ,KAAI;UAAUU,IAAG;;;;EAGlC;AACF,CAAA,GAEMC,gBAAgBd,OAAON,IAAI;EAC/B,iBAAiB;IACfa,IAAI;EACN;EACAA,IAAI;EACJQ,IAAI;AACN,CAAA,GAEaC,WAAWjB,qBAAqBG,eAAe;EAC1De,MAAMhB;EACNiB,OAAOZ;EACPa,OAAOV;EACPW,OAAON;AACT,CAAA;",
+  "names": ["H2", "Separator", "XStack", "YGroup", "YStack", "withStaticProperties", "styled", "SettingItem", "SettingsFrame", "boc", "gap", "f", "SettingsItems", "mx", "m", "SettingsGroup", "bg", "separator", "w", "bw", "SettingsTitle", "py", "Settings", "Item", "Items", "Group", "Title"]
+}

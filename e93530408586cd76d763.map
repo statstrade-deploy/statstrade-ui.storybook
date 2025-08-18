@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/experimental/mockups/DashboardPage.stories.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;uDACA,uBAA8B,4BAE9B,gCAAe;EACbA,OAAO;EACPC,WAAWC;EACXC,YAAY;IACVC,QAAQ;IACRC,MAAM;MACJC,aAAa;QACXL,WAAW;MACb;IACF;EACF;EACAM,UAAU,CAEV;AACF,GAIaC,UAAiB;EAC5BC,QAAQ,WAAA;WACN,uCAAAC,KAACC,OAAAA;MAAIC,OAAO;QAAEC,WAAW;MAAQ;gBAC/B,uCAAAH,KAACR,oCAAAA,CAAAA,CAAAA;;;EAGLC,YAAY;;IAEVW,UAAU;MAAEC,uBAAuB;IAAK;EAC1C;AACF;",
+  "names": ["title", "component", "DashboardPage", "parameters", "layout", "docs", "description", "argTypes", "Default", "render", "_jsx", "div", "style", "minHeight", "controls", "hideNoControlsWarning"]
+}

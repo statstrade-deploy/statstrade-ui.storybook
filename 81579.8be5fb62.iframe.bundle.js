@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[81579],{"../../packages/ui/dist/cjs/components/onboarding/AvatarCustomization.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"a9792b294ad0a99c588e.map"}}]);

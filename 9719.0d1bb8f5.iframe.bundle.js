@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[9719],{"../../packages/ui/dist/cjs/components/effect/Shake.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"3c3868cb65d0c064b78d.map"}}]);

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../../src/components/base/brand/StatstradeLogo.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;uDAAA,sBAAuB,kCACvB,eAAqB,kBACrB,0BAA0B,6BAIpBA,qBAAqB;EACzB;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACAC,KAAK,GAAA,GAEDC,oBAAoB,SAACC,OAAAA;AACzB,MAAM,EAAEC,OAAO,IAAIC,QAAQ,SAAS,GAAGC,KAAAA,IAASH;AAEhD,SACE,uCAAAI,KAACC,6BAAAA;IAAIH;IAAcI,OAAOL;IAAMM,QAAQN;IAAMO,SAAQ;IAAa,GAAGL;cACpE,uCAAAC,KAACK,8BAAAA;MAAKC,MAAK;MAAeC,GAAGd;;;AAGnC,GACae,iBAAiBC,2CAAKC,4BAAOf,iBAAAA,CAAAA;",
+  "names": ["StatstradeLogoPath", "join", "StatstradeLogoSvg", "props", "size", "color", "rest", "_jsx", "Svg", "width", "height", "viewBox", "Path", "fill", "d", "StatstradeLogo", "memo", "themed"]
+}

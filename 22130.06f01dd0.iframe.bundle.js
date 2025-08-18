@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[22130],{"../../packages/ui/dist/jsx/themes/colors-pastel.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"4739cae8a7c5106271fc.map"}}]);

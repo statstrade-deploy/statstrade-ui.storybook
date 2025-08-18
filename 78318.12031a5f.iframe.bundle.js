@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[78318],{"../../packages/ui/dist/cjs/experimental/features/onboarding/BrandBadges.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"21265e8d9d1f0a37333b.map"}}]);
