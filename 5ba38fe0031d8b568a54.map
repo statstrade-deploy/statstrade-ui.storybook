@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/onboarding/SplashScreen.stories.tsx"],
+  "mappings": ";;;;;;;;;;;;;;;AACA;;;;;;;0BAA6B,2BAEvBA,OAAkC;EACtCC,OAAO;EACPC,WAAWC;EACXC,YAAY;IACVC,QAAQ;IACRC,UAAU;MACRC,iBAAiB;IACnB;EACF;EACAC,UAAU;IACRC,qBAAqB;MAAEC,QAAQ;IAAoB;EACrD;AACF,GAEA,+BAAeV,MAIFW,UAAiB;EAC5BC,MAAM,CAAC;EACPR,YAAY;IACVS,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF,GAEaC,aAAoB;EAC/BJ,MAAM;IACJH,qBAAqB,WAAA;aAAMQ,QAAQC,IAAI,qBAAA;;EACzC;EACAd,YAAY;IACVS,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF;",
+  "names": ["meta", "title", "component", "SplashScreen", "parameters", "layout", "viewport", "defaultViewport", "argTypes", "onAnimationComplete", "action", "Default", "args", "docs", "description", "story", "WithAction", "console", "log"]
+}

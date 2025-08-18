@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/onboarding/AvatarCustomization.stories.tsx"],
+  "mappings": "AACA,SAASA,2BAA2B;AACpC,SAASC,cAAc;AAEvB,IAAMC,OAAyC;EAC7CC,OAAO;EACPC,WAAWJ;EACXK,YAAY;IACVC,QAAQ;EACV;EACAC,MAAM;IACJC,YAAYP,OAAO,YAAA;IACnBQ,QAAQR,OAAO,QAAA;EACjB;AACF,GAEA,sCAAeC,MAGFQ,UAAiB,CAAC,GAElBC,uBAA8B;EACzCJ,MAAM;IACJK,OAAO;MAAEC,iBAAiB;IAAU;EACtC;AACF,GAEaC,sBAA6B;EACxCP,MAAM;IACJC,YAAY,WAAA;AACVO,cAAQC,IAAI,yBAAA,GACZf,OAAO,gBAAA,EAAA;IACT;IACAQ,QAAQ,WAAA;AACNM,cAAQC,IAAI,qBAAA,GACZf,OAAO,YAAA,EAAA;IACT;EACF;AACF;",
+  "names": ["AvatarCustomization", "action", "meta", "title", "component", "parameters", "layout", "args", "onComplete", "onBack", "Default", "WithCustomBackground", "style", "backgroundColor", "WithCustomCallbacks", "console", "log"]
+}

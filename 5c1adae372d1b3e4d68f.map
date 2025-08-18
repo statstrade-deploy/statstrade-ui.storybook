@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/onboarding/AvatarRoom.stories.tsx"],
+  "mappings": "AACA,SAASA,kBAAkB;AAE3B,IAAMC,OAAO;EACXC,OAAO;EACPC,WAAWH;EACXI,YAAY;IACVC,QAAQ;EACV;EACAC,MAAM;IAAC;;EACPC,UAAU,CAEV;AACF,GAEA,6BAAeN,MAEFO,UAAU;EACrBC,MAAM,CAAC;EACPL,YAAY;IACVM,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF,GAEaC,uBAAuB;EAClCJ,MAAM,CAEN;;EACAL,YAAY;IACVM,MAAM;MACJC,aAAa;QACXC,OAAO;MACT;IACF;EACF;AACF;",
+  "names": ["AvatarRoom", "meta", "title", "component", "parameters", "layout", "tags", "argTypes", "Default", "args", "docs", "description", "story", "WithCustomBackground"]
+}

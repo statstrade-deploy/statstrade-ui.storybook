@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/onboarding/ProfileSetup.stories.tsx"],
+  "mappings": "AACA,SAASA,oBAAoB;AAC7B,SAASC,cAAc;AAEvB,IAAMC,OAAkC;EACtCC,OAAO;EACPC,WAAWJ;EACXK,YAAY;IACVC,QAAQ;EACV;EACAC,MAAM;IACJC,YAAYP,OAAO,YAAA;IACnBQ,QAAQR,OAAO,QAAA;EACjB;AACF,GAEA,+BAAeC,MAGFQ,UAAiB,CAAC,GAElBC,uBAA8B;EACzCJ,MAAM;IACJK,OAAO;MAAEC,iBAAiB;IAAU;EACtC;AACF,GAEaC,sBAA6B;EACxCP,MAAM;IACJC,YAAY,SAACO,SAAAA;AACXC,cAAQC,IAAI,sBAAsBF,OAAAA,GAClCd,OAAO,kBAAA,EAAoBc,OAAAA;IAC7B;IACAN,QAAQ,WAAA;AACNO,cAAQC,IAAI,iBAAA,GACZhB,OAAO,cAAA,EAAA;IACT;EACF;AACF,GAEaiB,oBAA2B;EACtCX,MAAM;IACJY,eAAe;MACbC,aAAa;MACbC,UAAU;MACVC,KAAK;IACP;EACF;AACF;",
+  "names": ["ProfileSetup", "action", "meta", "title", "component", "parameters", "layout", "args", "onComplete", "onBack", "Default", "WithCustomBackground", "style", "backgroundColor", "WithCustomCallbacks", "profile", "console", "log", "WithInitialValues", "initialValues", "displayName", "username", "bio"]
+}
