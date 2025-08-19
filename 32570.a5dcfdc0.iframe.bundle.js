@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstorybook_app=self.webpackChunkstorybook_app||[]).push([[32570],{"../../packages/ui/dist/cjs/experimental/features/web-lite/RoomPage.native.js.map":(module,__unused_webpack_exports,__webpack_require__)=>{module.exports=__webpack_require__.p+"b03450d4e6d0c106459b.map"}}]);

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/page/index.tsx"],
+  "mappings": ";;;;;;;;;;;;AAAA;;AACA,yBAAc,yBADd;AAIA,yBAAc,mBAJd;AAOA,yBAAc,qBAPd;AAUA,yBAAc,sBAVd;AAWA,yBAAc,qBAXd;AAcA,yBAAc,qBAdd;AAiBA,yBAAc,qBAjBd;",
+  "names": []
+}
