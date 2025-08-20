@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../src/components/wrap/wrapData.ts"],
+  "mappings": "AAAA,SACEA,eACAC,eACAC,kBAIK;AAEP,IAAMC,cAAcC,OAAO,sBAAA,GAUrBC,iBAAmCJ,cAAuB,IAAA;AAEhE,SAASK,uBACPC,WACA,OAAmD;MAAnD,EAAEC,KAAKC,OAAO,GAAGC,MAAAA,IAAjB,OAEMC,MAAMT,WAAoBG,cAAAA;AAChC,MAAI,CAACG;AACH,WAAOR,cACLK,eAAeO,UACf;MAAEC,OAAO;QAAE,GAAGF;QAAK,GAAGF;MAAM;IAAE,GAC9BT,cAAcO,WAAWG,KAAAA,CAAAA;AAI7B,MAAMI,UAAUC,OAAOC,OAAO,CAAC,GAAGL,OAAAA,OAAAA,SAAAA,IAAM,KAAKH,GAAAA,EAAK,GAAGC,KAAAA,GAG/CQ,YAAYF,OAAOG,YACvBH,OAAOI,QAAQL,OAAAA,EAASM,OAAO,SAAAC,QAAA;QAAC,CAACC,CAAAA,IAAED;WAAK,CAACC,EAAEC,WAAW,GAAA;OAIlDC,UAAUxB,cAAcO,WAAW;IAAE,GAAIG;IAAa,GAAGO;EAAU,CAAA;AACzE,SAAOjB,cAAcK,eAAeO,UAAU;IAAEC,OAAOC;EAAQ,GAAGU,OAAAA;AACpE;AAEO,SAASC,SACdlB,WAA2B;AAE3B,MAAMmB,mBAAmB,SAAUhB,OAAgC;AACjE,WAAOJ,uBAAuBC,WAAWG,KAAAA;EAC3C;AAGEgB,0BAAyBvB,WAAAA,IAAe,IAEnCuB;AACT;",
+  "names": ["createElement", "createContext", "useContext", "WRAP_MARKER", "Symbol", "WrappedContext", "createWrappedComponent", "Component", "$id", "$data", "props", "top", "Provider", "value", "nextTop", "Object", "assign", "nextProps", "fromEntries", "entries", "filter", "param", "k", "startsWith", "wrapped", "wrapData", "WrappedComponent"]
+}
